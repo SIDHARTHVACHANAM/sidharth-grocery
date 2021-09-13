@@ -1,0 +1,100 @@
+{
+    "grocery":[
+        {
+            "serial":"SERIAL NO:",
+            "name":"NAME",
+            "quantity":"QUANTITY",
+            "unit":"UNIT",
+            "department":"DEPARTMENT",
+            "notes":"NOTES"
+        },
+        {
+            "serial":"1",
+            "name":"Rice",
+            "quantity":"10",
+            "unit":"Kg",
+            "department":"Grains",
+            "notes":"Brown Rice"
+        },
+        { 
+            "serial":"2",
+            "name":"Wheat Flour",
+            "quantity":"2",
+            "unit":"Kg",
+            "department":"Grains",
+            "notes":"Atta"
+        },
+        {
+            "serial":"3",
+            "name":"Coconut Oil",
+            "quantity":"1",
+            "unit":"L",
+            "department":"Oils",
+            "notes":"Kera"
+        },
+        {
+            "serial":"4",
+            "name":"Salt",
+            "quantity":"1",
+            "unit":"Kg",
+            "department":"Spices",
+            "notes":"Crystal"
+        },
+        {
+            "serial":"5",
+            "name":"Sugar",
+            "quantity":"1",
+            "unit":"Kg",
+            "department":"Condiments",
+            "notes":""
+        },
+        {
+            "serial":"6",
+            "name":"Milk",
+            "quantity":"2",
+            "unit":"Packs",
+            "department":"Dairy",
+            "notes":"Milma"
+        },
+        {
+            "serial":"7",
+            "name":" Green Chili",
+            "quantity":"100",
+            "unit":"gms",
+            "department":"Vegetables",
+            "notes":"Fresh"
+        },
+        {
+            "serial":"8",
+            "name":"Onion",
+            "quantity":"1",
+            "unit":"Kg",
+            "department":"Vegetables",
+            "notes":"Fresh"
+        },
+        {
+            "serial":"9",
+            "name":"Butter",
+            "quantity":"200",
+            "unit":"gms",
+            "department":"Condiments",
+            "notes":"Milma"
+        },
+        {
+            "serial":"10",
+            "name":"Bread",
+            "quantity":"1",
+            "unit":"Packs",
+            "department":"Snacks",
+            "notes":"Your Choice"
+        },
+        {
+            "serial":"11",
+            "name":"Biscuits",
+            "quantity":"1",
+            "unit":"packs",
+            "department":"Snacks",
+            "notes":"Your Choice"
+        }
+    ]
+}
